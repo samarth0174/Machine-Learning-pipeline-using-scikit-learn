@@ -1,4 +1,4 @@
-# Automate Machine-Learning-pipeline-using-scikit-learn
+# Automate Machine Learning Workflows with Pipelines using scikit-learn
 ## Machine Learning Pipeline:
 * For building any machine learning model, it is important to have a sufficient amount of data to train the model. The data is often collected from various resources and might be available in different formats. Due to this reason, data cleaning and * preprocessing become a crucial step in the machine learning project.
 * Whenever new data points are added to the existing data, we need to perform the same preprocessing steps again before we can use the machine learning model to make predictions. This becomes a tedious and time-consuming process!
