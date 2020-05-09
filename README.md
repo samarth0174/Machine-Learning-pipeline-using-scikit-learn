@@ -23,16 +23,12 @@
 - Scikit-learn
 
 ## Steps Involved:
-* Task 1:
-  * Import Libraries
-  * Standardize the data
-  * Linear Discriminant Analysis model
-  * Evaluation 10 fold CrossValidation
-* Task 2:
-  * Feature Extraction with Principal Component Analysis (3 features)
-  * Feature Extraction with Statistical Selection (6 features)
-  * Feature Union
-  * Learn a Logistic Regression Model
+* Import Libraries
+* Standardize the data
+* Feature Extraction with Principal Component Analysis (3 features)
+* Feature Extraction with Statistical Selection (6 features)
+* Feature Union
+* Learn a Logistic Regression Model
 
 ## Dataset Used:
 We use PIMA INDIANS DIABETES DATASET
